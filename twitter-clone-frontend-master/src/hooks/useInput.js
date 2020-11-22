@@ -8,6 +8,5 @@ export default (defaultValue) => {
     setValue(e.target.value);
   };
   
-
 return { value, setValue, onChange };
 };
