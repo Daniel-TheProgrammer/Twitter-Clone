@@ -1,5 +1,4 @@
-i
-mport { useState } from "react";
+import { useState } from "react";
 
 export default (defaultValue) => {
   const [value, setValue] = useState(defaultValue);
