@@ -1,5 +1,4 @@
-
-\import styled, { css } from "styled-components";
+import styled, { css } from "styled-components";
 
 export default styled.form`
   width: 380px;
