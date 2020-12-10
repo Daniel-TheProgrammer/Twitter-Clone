@@ -11,6 +11,7 @@
 - Search by users, tags, people
 - Dark theme / Light theme
 
+
 ## How to setup locally
 
 - Create a .env file at the root directory
